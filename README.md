@@ -1,4 +1,0 @@
-prescottgroup
-=============
-
-www.prescottgroup.co
